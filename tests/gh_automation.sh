@@ -1,2 +1,2 @@
-$TOKEN='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'
+$TOKEN=''
 # For logging into GH
